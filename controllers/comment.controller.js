@@ -5,11 +5,6 @@ class CommentController {
 
     }
 
-    commentUpdate = async (req,res) => {
-
-
-    }
-
     commentDelete = async (req,res) => {
 
 
